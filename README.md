@@ -1,4 +1,5 @@
 # hello-world
 first repository
 Hello i'm priyatosh. 
-I like to code in python.
+Here is some code on basic c and java.
+Have a look...:-)
